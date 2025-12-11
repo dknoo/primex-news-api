@@ -1,0 +1,8 @@
+{
+  "name": "primex-news-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "rss-parser": "latest"
+  }
+}
